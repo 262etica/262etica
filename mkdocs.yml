@@ -1,0 +1,19 @@
+site_name: Ética y Deontología en Enfermería
+site_url: https://262etica.github.io/262etica/
+docs_dir: docs
+
+nav:
+  - Inicio: index.md
+  - Sílabos:
+      - Sílabo Ética 2025-2: silabo_etica_2025_2.md
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - content.code.copy
+
+plugins:
+  - search
