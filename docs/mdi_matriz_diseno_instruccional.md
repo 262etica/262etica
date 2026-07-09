@@ -3,24 +3,27 @@
 <!-- Transcripcion estructural de la hoja MDI del archivo Excel original. -->
 
 <style>
+.md-sidebar--primary { display: none !important; }
+.md-content { margin-left: 0 !important; max-width: none !important; }
+.md-main__inner { max-width: none !important; }
 .mdi-wrap { overflow-x: visible; width: 100%; }
-.mdi-grid { border-collapse: collapse; table-layout: fixed; font-family: Calibri, Arial, sans-serif; font-size: 11px; width: 100%; min-width: 0; }
-.mdi-grid td { border: 1px solid #808080; padding: 5px 6px; white-space: pre-wrap; overflow-wrap: anywhere; line-height: 1.2; }
+.mdi-grid { border-collapse: collapse; table-layout: fixed; font-family: Calibri, Arial, sans-serif; font-size: 10px; width: 100%; min-width: 0; }
+.mdi-grid td { border: 1px solid #808080; padding: 4px; white-space: normal; overflow-wrap: break-word; word-break: normal; hyphens: auto; line-height: 1.2; }
 </style>
 
 <div class="mdi-wrap">
 <table class="mdi-grid">
 <colgroup>
-  <col style="width:13%">
   <col style="width:10%">
+  <col style="width:10%">
+  <col style="width:10%">
+  <col style="width:10%">
+  <col style="width:10%">
+  <col style="width:9%">
   <col style="width:11%">
-  <col style="width:10%">
-  <col style="width:13%">
-  <col style="width:2%">
-  <col style="width:13%">
-  <col style="width:13%">
-  <col style="width:2%">
+  <col style="width:11%">
   <col style="width:7%">
+  <col style="width:6%">
   <col style="width:6%">
 </colgroup>
 <tbody>
