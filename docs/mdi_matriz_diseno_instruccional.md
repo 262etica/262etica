@@ -4,8 +4,10 @@
 
 <style>
 .md-sidebar--primary { display: none !important; }
-.md-content { margin-left: 0 !important; max-width: none !important; }
-.md-main__inner { max-width: none !important; }
+.md-sidebar--secondary { display: none !important; }
+.md-content { margin-left: 0 !important; margin-right: 0 !important; max-width: none !important; }
+.md-content__inner { margin-left: 0 !important; margin-right: 0 !important; max-width: none !important; }
+.md-main__inner { width: 100% !important; max-width: none !important; margin: 0 !important; padding-left: 0.75rem; padding-right: 0.75rem; }
 .mdi-wrap { overflow-x: visible; width: 100%; }
 .mdi-grid { border-collapse: collapse; table-layout: fixed; font-family: Calibri, Arial, sans-serif; font-size: 10px; width: 100%; min-width: 0; }
 .mdi-grid td { border: 1px solid #808080; padding: 4px; white-space: normal; overflow-wrap: break-word; word-break: normal; hyphens: auto; line-height: 1.2; }
