@@ -1,0 +1,19 @@
+.md-grid {
+  max-width: none;
+}
+
+.md-main__inner {
+  margin-left: 1.25rem;
+  margin-right: 1.25rem;
+}
+
+.mdi-wrap {
+  max-width: 100%;
+}
+
+@media screen and (max-width: 76.234375em) {
+  .md-main__inner {
+    margin-left: 0.8rem;
+    margin-right: 0.8rem;
+  }
+}

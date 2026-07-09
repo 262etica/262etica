@@ -15,7 +15,12 @@ theme:
     - navigation.instant
     - navigation.tracking
     - navigation.top
+    - navigation.tabs
+    - navigation.tabs.sticky
     - content.code.copy
+
+extra_css:
+  - stylesheets/extra.css
 
 plugins:
   - search
