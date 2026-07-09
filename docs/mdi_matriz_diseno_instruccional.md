@@ -1,7 +1,7 @@
 # MDI - MATRIZ DE DISEÑO INSTRUCCIONAL
 
 <!-- Transcripcion estructural de la hoja MDI del archivo Excel original. -->
-
+ 
 <style>
 .md-sidebar--primary { display: none !important; }
 .md-sidebar--secondary { display: none !important; }
