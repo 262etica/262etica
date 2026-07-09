@@ -3,8 +3,11 @@
 }
 
 .md-main__inner {
-  margin-left: 1.25rem;
-  margin-right: 1.25rem;
+  width: 100%;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
 }
 
 .mdi-wrap {
@@ -15,8 +18,20 @@
   display: none !important;
 }
 
+.md-sidebar--secondary {
+  display: none !important;
+}
+
 .md-content {
   margin-left: 0 !important;
+  margin-right: 0 !important;
+  max-width: none !important;
+}
+
+.md-content__inner {
+  max-width: none !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
 }
 
 @media screen and (max-width: 76.234375em) {
