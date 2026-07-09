@@ -6,6 +6,7 @@ nav:
   - Inicio: index.md
   - Sílabos:
       - Sílabo Ética 2025-2: silabo_etica_2025_2.md
+      - Sílabo Ética 2026-2: silabo_etica_2026_2.md
 
 theme:
   name: material
