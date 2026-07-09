@@ -11,6 +11,16 @@
   max-width: 100%;
 }
 
+@media screen and (min-width: 76.25em) {
+  .md-sidebar--primary {
+    display: none;
+  }
+
+  .md-content {
+    margin-left: 0;
+  }
+}
+
 @media screen and (max-width: 76.234375em) {
   .md-main__inner {
     margin-left: 0.8rem;
